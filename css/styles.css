@@ -27,3 +27,8 @@ p{
     margin-top: 20px;
     color: white;
 }
+li{
+    color: white;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
